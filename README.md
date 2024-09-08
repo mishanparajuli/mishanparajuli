@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mishanparajuli
-- 👀 I’m interested in Coding
+- 👀 I’m a Coder
 - 🌱 I’m currently learning Java , ReactJS ,
 
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishanparajuli
 - 👀 I’m a Coder
-- 🌱 I’m currently learning Java , ReactJS ,
+- 🌱 I’m currently learning Java , JavaScript, ReactJs,C# 
 
 
 <!---
